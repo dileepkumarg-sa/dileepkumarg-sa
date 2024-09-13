@@ -1,3 +1,4 @@
+# About Me:
 👋 Hi there! I'm Dileep Kumar G, a passionate Data Scientist with expertise in turning data into actionable insights. With a strong foundation in statistics, machine learning, and programming, I love tackling complex problems and building data-driven solutions.
 
 🚀 My skills include:
@@ -14,5 +15,11 @@
 
 Let's connect and explore the power of data together! 👨‍💻👩‍💻
 
-### YouTube Videos:
+## YouTube Videos:
 Follow and Subscribe my channel [Sudiksha Analytics](https://www.youtube.com/channel/UC4dkBQ0kGQdrQox26Cu2B6Q)
+
+## My Medium Stories:
+
+- [AI Based Face Mask Detection System] (https://medium.com/@dileep.gdk/ai-based-face-mask-detection-system-9badf49f268)
+- [How to impute missing values?](https://medium.com/@dileep.gdk/how-to-impute-missing-values-28a84215f16d)
+- [How to Become a Successful Data Scientist](https://medium.com/@dileep.gdk/how-to-become-a-successful-data-scientist-in-2020-ee09459e1c9d)

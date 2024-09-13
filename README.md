@@ -20,6 +20,6 @@ Follow and Subscribe my channel [Sudiksha Analytics](https://www.youtube.com/cha
 
 ## My Medium Stories:
 
-- [AI Based Face Mask Detection System] (https://medium.com/@dileep.gdk/ai-based-face-mask-detection-system-9badf49f268)
+- [AI Based Face Mask Detection System](https://medium.com/@dileep.gdk/ai-based-face-mask-detection-system-9badf49f268)
 - [How to impute missing values?](https://medium.com/@dileep.gdk/how-to-impute-missing-values-28a84215f16d)
 - [How to Become a Successful Data Scientist](https://medium.com/@dileep.gdk/how-to-become-a-successful-data-scientist-in-2020-ee09459e1c9d)

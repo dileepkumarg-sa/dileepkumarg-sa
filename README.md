@@ -5,7 +5,7 @@
 
 - Python, R, SQL
 - Machine Learning & AI
-- Data Visualization (Matplotlib, Seaborn, Power BI, Tableau)
+- Data Visualization (Matplotlib, Seaborn, Power BI, Tableau, Looker Studio)
 - Big Data (Spark, Hadoop)
 - Deep Learning (TensorFlow, PyTorch)
 
